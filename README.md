@@ -26,3 +26,7 @@
 2023.10.23 v0.0.1:
 
 ​	非专题页面自动学习，支持pdf学习
+
+## git地址
+
+​	https://github.com/dropDBToRun/hangtian-casicloud
