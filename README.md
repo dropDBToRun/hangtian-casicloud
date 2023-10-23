@@ -10,7 +10,7 @@
 
 ​	页面如下：点击开始学习即可
 
-![image-20231023213052653](https://raw.githubusercontent.com/dropDBToRun/hangtian-casicloud/main/images/image-20231023213052653.png)
+![image-20231023213052653](https://raw.githubusercontent.com/dropDBToRun/hangtian-casicloud/main/images/image-20231023213052652.png)
 
 ## PS：
 
