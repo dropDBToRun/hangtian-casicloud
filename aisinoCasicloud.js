@@ -361,5 +361,7 @@ function judegeCourseType() {
       clearTimeout(timer);
       closeWin();
     }, 660000);
+    return true;
   }
+  return false;
 }
