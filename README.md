@@ -10,7 +10,7 @@
 
 ​	页面如下：点击开始学习即可
 
-![image-20231023213052653](https://github.com/dropDBToRun/hangtian-casicloud/raw/main/images/image-20231023213052653.png)
+![image-20231023213052653](D:\workplace\tamperMonkey\hangtian-casicloud\images\image-20231023213052653.png)
 
 ## PS：
 
@@ -19,7 +19,7 @@
 
 ## 鸣谢
 
-依据https://github.com/gtjl12/HangtianTrainAssitant#%E8%88%AA%E5%A4%A9%E4%BA%91%E8%AF%BE%E5%A0%82%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7修改的
+依据https://github.com/gtjl12/HangtianTrainAssitant#%E8%88%AA%E5%A4%A9%E4%BA%91%E8%AF%BE%E5%A0%82%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7 修改的
 
 ## 更新历史
 
