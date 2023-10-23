@@ -10,7 +10,7 @@
 
 ​	页面如下：点击开始学习即可
 
-![image-20231023213052653](C:\Users\watermelon\AppData\Roaming\Typora\typora-user-images\image-20231023213052653.png)
+![image-20231023213052653](https://github.com/dropDBToRun/hangtian-casicloud/raw/main/images/image-20231023213052653.png)
 
 ## PS：
 
